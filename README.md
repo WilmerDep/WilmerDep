@@ -5,6 +5,7 @@
   <img src="https://media.licdn.com/dms/image/D4E16AQH68nGGv-4CZA/profile-displaybackgroundimage-shrink_350_1400/0/1702180035629?e=1711584000&v=beta&t=VpJ0bFk7P1NfNy2_20GHwqcD9ZD2fthYoYuBpvieU9I" width="100%"/>
 </div>
 
+* 🖥️  Mira  [mi portafolio](https://pholiodev.com/)
 
 <!--
 **WilmerDep/WilmerDep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
